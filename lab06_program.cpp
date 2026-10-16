@@ -54,5 +54,6 @@ int main() {
 	cout << "Digits spoken: " << digitCount << endl;
 	//added the comment for the git change thing
 
+	cout << "This is the new cout function added" << endl;
 	return 0;
 }
