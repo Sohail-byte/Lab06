@@ -52,6 +52,7 @@ int main() {
 	}
 
 	cout << "Digits spoken: " << digitCount << endl;
+	//added the comment for the git change thing
 
 	return 0;
 }
