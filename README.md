@@ -1,4 +1,4 @@
-Title: Emergency Code verbalizer
+Title: Emergency Code verbalizer version 2
 Purpose: This program converts an emergency code into words
 
 To run the program, first compile the program and execute the .exe file generated.
